@@ -6,7 +6,7 @@
 * Julian Camilo Peña [Github](https://github.com/julianp91) ! [LinkedIn](https://www.linkedin.com/in/julian-pena-bb8643267/)
 * Bradley Baack [Github](https://github.com/bjbaack) ! [LinkedIn](https://www.linkedin.com/in/bradleybaack/)
 
-## [Team Agreement]([https://codefellows.slack.com/files/U06GTMNRS86/F06TWPSAZPG/team_agreement_ops_301.pdf](https://slack-files.com/files-pri-safe/T039KG69K-F06TWPSAZPG/team_agreement_ops_301.pdf?c=1712940245-a24b619ca1214453))
+## [Team Agreement](https://codefellows.slack.com/files/U06GTMNRS86/F06TWPSAZPG/team_agreement_ops_301.pdf](https://slack-files.com/files-pri-safe/T039KG69K-F06TWPSAZPG/team_agreement_ops_301.pdf?c=1712940245-a24b619ca1214453)
 
 ## System Selection
 
