@@ -26,6 +26,7 @@
 * [Preferred Hardware and Software](https://docs.google.com/document/d/1yxA9WjhDR6_P6daMvTxhDtTyXLQ55x_oEr4KY1KVaNg/edit#heading=h.64g8qpf0x9oa)
 * [Employee Handbook for IT Services](https://docs.google.com/document/d/1v-KCPP4P30EBBw6sGXk_Vki68MzrAU1pHBkryjyDo20/edit#heading=h.nfid4l84lg0u)
 * [Employee Termination](https://docs.google.com/document/d/1-zt9yq1BCxoH1KfhwR0agp4LD0R08nXC4ICLPG6SG-U/edit#heading=h.damp1gnlblk)
+* [Slideshow](https://docs.google.com/presentation/d/1Elth_3UM1WhsHMchzky9Il5gT4ILaJkM-cbuxm8Oq2k/edit#slide=id.g26e7428628c_4_31)
 
 ## [Trello](https://trello.com/b/evm42QDY/ops-301)
 
