@@ -5,7 +5,7 @@
 * Omar Ardid [Github](https://github.com/oardid) ! [LinkedIn](https://www.linkedin.com/in/ardidomar/)
 * Julian Camilo Peña [Github](https://github.com/julianp91) ! [LinkedIn](https://www.linkedin.com/in/julian-pena-bb8643267/)
 * Bradley Baack [Github](https://github.com/bjbaack) ! [LinkedIn](https://www.linkedin.com/in/bradleybaack/)
-* Becca Childs [Github]() ! [LinkedIn]()
+* Becca Childs [Github](https://github.com/Crimson-Raven) ! [LinkedIn](https://www.linkedin.com/in/rebecca-childs-b69b61166/)
 
 ## [Team Agreement](https://docs.google.com/document/d/1fNa5TKsHoVrjMS5TSnLkJ30S34Od6ILYmXGh-81YvO8/edit?usp=sharing)
 
