@@ -7,7 +7,7 @@
 * Bradley Baack [Github](https://github.com/bjbaack) ! [LinkedIn](https://www.linkedin.com/in/bradleybaack/)
 * Becca Childs [Github]() ! [LinkedIn]()
 
-## [Team Agreement](https://slack-files.com/files-pri-safe/T039KG69K-F06TWPSAZPG/team_agreement_ops_301.pdf?c=1712940245-a24b619ca1214453)
+## [Team Agreement](https://docs.google.com/document/d/1fNa5TKsHoVrjMS5TSnLkJ30S34Od6ILYmXGh-81YvO8/edit?usp=sharing)
 
 ## [System Selection](https://docs.google.com/document/d/1gUgTYlfTJa4f-P9nA7oibvPZR7GzYQ5ioUSrZHc1XgA/edit)
 
