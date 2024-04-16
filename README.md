@@ -11,7 +11,7 @@
 ## [System Selection](https://docs.google.com/document/d/1gUgTYlfTJa4f-P9nA7oibvPZR7GzYQ5ioUSrZHc1XgA/edit)
 
 ## Topologies/Visuals
-
+[Rough Topology](https://drive.google.com/file/d/11Q1hYyOH7JIarpZ33ANmQBcdLPw1D7pI/view?usp=sharing)
 ## SOP docs and the slideshow
 * [New Employee Onboarding](https://docs.google.com/document/d/14a6gy_nqVkBHtUzPjT7oXkxRs0yk_qVuBrPUOZ8XaTs/edit#heading=h.damp1gnlblk)
 * [Acceptable Use Agreement](https://docs.google.com/document/d/16uWrXDeIQi4gdG8IPaFRt0GVIIZC0vUJSlQsMz_ZqWY/edit#heading=h.35rt96ad4t2s)
