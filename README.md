@@ -14,7 +14,6 @@
 ## Topologies/Visuals
 [Rough Topology](https://drive.google.com/file/d/11Q1hYyOH7JIarpZ33ANmQBcdLPw1D7pI/view?usp=sharing)
 ## SOP docs and the slideshow
-* [Employee Handbook for IT Services](https://docs.google.com/document/d/1v-KCPP4P30EBBw6sGXk_Vki68MzrAU1pHBkryjyDo20/edit#heading=h.nfid4l84lg0u)
 * [Acceptable Use Agreement](https://docs.google.com/document/d/16uWrXDeIQi4gdG8IPaFRt0GVIIZC0vUJSlQsMz_ZqWY/edit#heading=h.35rt96ad4t2s)
 * [Preferred Hardware and Software](https://docs.google.com/document/d/1yxA9WjhDR6_P6daMvTxhDtTyXLQ55x_oEr4KY1KVaNg/edit#heading=h.64g8qpf0x9oa)
 * [New Employee Onboarding](https://docs.google.com/document/d/14a6gy_nqVkBHtUzPjT7oXkxRs0yk_qVuBrPUOZ8XaTs/edit#heading=h.damp1gnlblk)
