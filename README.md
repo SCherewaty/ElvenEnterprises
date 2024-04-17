@@ -12,7 +12,7 @@
 ## [System Selection](https://docs.google.com/document/d/1gUgTYlfTJa4f-P9nA7oibvPZR7GzYQ5ioUSrZHc1XgA/edit)
 
 ## Topologies/Visuals
-[Rough Topology](https://drive.google.com/file/d/11Q1hYyOH7JIarpZ33ANmQBcdLPw1D7pI/view?usp=sharing)
+* [Rough Topology](https://drive.google.com/file/d/11Q1hYyOH7JIarpZ33ANmQBcdLPw1D7pI/view?usp=sharing)
 ## [Employee Handbook](https://docs.google.com/document/d/1v-KCPP4P30EBBw6sGXk_Vki68MzrAU1pHBkryjyDo20/edit#heading=h.nfid4l84lg0u)
 ## SOP docs and the slideshow
 * [Acceptable Use Agreement](https://docs.google.com/document/d/16uWrXDeIQi4gdG8IPaFRt0GVIIZC0vUJSlQsMz_ZqWY/edit#heading=h.35rt96ad4t2s)
