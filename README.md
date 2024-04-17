@@ -30,3 +30,4 @@ Elven Enterprises (EvE) has the distinction and privilege of being partners with
 ## [Trello](https://trello.com/invite/b/evm42QDY/ATTI7f423eb5b0523d83af994af4e553670eC0F6374E/ops-301)
 
 ## Scripts
+[Creating new users in active directory[(https://github.com/oardid/ElvenEnterprises/blob/main/ADUsers.ps1)
