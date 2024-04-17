@@ -11,8 +11,6 @@ Elven Enterprises (EvE) has the distinction and privilege of being partners with
 
 ## [System Selection](https://docs.google.com/document/d/1gUgTYlfTJa4f-P9nA7oibvPZR7GzYQ5ioUSrZHc1XgA/edit)
 
-## Topologies/Visuals
-* [Rough Topology](https://drive.google.com/file/d/11Q1hYyOH7JIarpZ33ANmQBcdLPw1D7pI/view?usp=sharing)
 ## [Employee Handbook](https://docs.google.com/document/d/1v-KCPP4P30EBBw6sGXk_Vki68MzrAU1pHBkryjyDo20/edit#heading=h.nfid4l84lg0u)
 ## SOP docs and the slideshow
 * [Acceptable Use Agreement](https://docs.google.com/document/d/16uWrXDeIQi4gdG8IPaFRt0GVIIZC0vUJSlQsMz_ZqWY/edit#heading=h.35rt96ad4t2s)
@@ -25,6 +23,9 @@ Elven Enterprises (EvE) has the distinction and privilege of being partners with
 * [Employee Termination](https://docs.google.com/document/d/1-zt9yq1BCxoH1KfhwR0agp4LD0R08nXC4ICLPG6SG-U/edit#heading=h.damp1gnlblk)
 * [Secure/Personal Information Disposal](https://docs.google.com/document/d/1kvfL9tl5V5w4iuer6fydPqNeRmDZCQw8Kx4l-TcXqyM/edit#heading=h.damp1gnlblk)
 * [Slideshow](https://docs.google.com/presentation/d/1Elth_3UM1WhsHMchzky9Il5gT4ILaJkM-cbuxm8Oq2k/edit#slide=id.g26e7428628c_4_31)
+  
+## Topologies/Visuals
+* [Rough Topology](https://drive.google.com/file/d/11Q1hYyOH7JIarpZ33ANmQBcdLPw1D7pI/view?usp=sharing)
 
 ## [Trello](https://trello.com/invite/b/evm42QDY/ATTI7f423eb5b0523d83af994af4e553670eC0F6374E/ops-301)
 
