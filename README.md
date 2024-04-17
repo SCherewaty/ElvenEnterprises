@@ -1,5 +1,5 @@
 # Elven Enterprises
-
+Elven Enterprises (EvE) has the distinction and privilege of being partners with Frodo Tech.  EvE leads the way in the implementation of efficient and state-of-the-art networking and information technology services.  As a partner of Frodo Tech, EvE has put together this handbook in order to provide guidelines and instructions for navigating the technology you will be using day-to-day.
 ## Team Members
 * Steve Cherewaty [Github](https://github.com/SCherewaty) ! [LinkedIn](https://www.linkedin.com/in/steve-cherewaty-jr-b8727135/)
 * Omar Ardid [Github](https://github.com/oardid) ! [LinkedIn](https://www.linkedin.com/in/ardidomar/)
