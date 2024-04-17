@@ -31,3 +31,4 @@ Elven Enterprises (EvE) has the distinction and privilege of being partners with
 
 ## Scripts
 * [Creating new users in active directory](https://github.com/oardid/ElvenEnterprises/blob/main/ADUsers.ps1)
+* [Configure system policies]()
