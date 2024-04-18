@@ -21,7 +21,7 @@ Elven Enterprises (EvE) has the distinction and privilege of being partners with
 * [Remote Access](https://drive.google.com/file/d/1yftAtC9StH-elHMxVKVCGfXzc3LZdvXk/view?usp=sharing)
 * [Cybersecurity](https://drive.google.com/file/d/1aOQSkZkcJxs4STEGkIdom9fDN-fxlLze/view?usp=sharing)
 * [Back up & Data restoration](https://drive.google.com/file/d/1akKcVLSOwfWUCnpzMUHUvI50bATTzCFg/view?usp=sharing)
-* [Traffic monitoring](https://drive.google.com/file/d/19Linm2y2rp5ASKNVgm_U_kCvoCcyM1UJ/view?usp=sharing)
+* [Network Monitoring](https://drive.google.com/file/d/1tm7T2yX9pmuDvKSLppy3SZCsTQQqlQeM/view?usp=sharing)
 * [Employee Termination](https://drive.google.com/file/d/16vi16o261qIvin8l-Ur1d6P42uhSJVIl/view?usp=sharing)
 * [Secure/Personal Information Disposal](https://drive.google.com/file/d/1tSsq12b02W7Ch03NIic279jXpTO70BtI/view?usp=sharing)
 * [Slideshow](https://drive.google.com/file/d/1erzsKEtGUtTHd14Nmu8yl9k5_gNFxX5y/view?usp=sharing)
