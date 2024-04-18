@@ -23,7 +23,7 @@ Elven Enterprises (EvE) has the distinction and privilege of being partners with
 * [Back up & Data restoration](https://docs.google.com/document/d/1MQBCBRlm1EAXeerj6V0Ny-uquk49dETYDakQnC4MPZg/edit#heading=h.damp1gnlblk)
 * [Traffic monitoring](https://docs.google.com/document/d/17mIJEfb5fJRNk-P2TLGODxNAPH3lA1rw31lcKNhRqzU/edit#heading=h.8ikfwrjuh5vz)
 * [Employee Termination](https://docs.google.com/document/d/1-zt9yq1BCxoH1KfhwR0agp4LD0R08nXC4ICLPG6SG-U/edit#heading=h.damp1gnlblk)
-* [Secure/Personal Information Disposal](https://docs.google.com/document/d/1kvfL9tl5V5w4iuer6fydPqNeRmDZCQw8Kx4l-TcXqyM/edit#heading=h.damp1gnlblk)
+* [Secure/Personal Information Disposal](file:///C:/Users/Omara/Downloads/New%20folder/Secure_Personal%20Information%20Disposal.pdf)
 * [Slideshow](https://docs.google.com/presentation/d/1UsDPhH5W3B3FnCR49cBGllSpmT4lKuiPpm0FM0tI_xY/edit?usp=sharing)
   
 ## Topologies/Visuals
