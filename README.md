@@ -15,16 +15,16 @@ Elven Enterprises (EvE) has the distinction and privilege of being partners with
 
 ## [Employee Handbook](https://docs.google.com/document/d/1v-KCPP4P30EBBw6sGXk_Vki68MzrAU1pHBkryjyDo20/edit#heading=h.nfid4l84lg0u)
 ## SOP docs and the slideshow
-* [Acceptable Use Agreement](https://docs.google.com/document/d/16uWrXDeIQi4gdG8IPaFRt0GVIIZC0vUJSlQsMz_ZqWY/edit#heading=h.35rt96ad4t2s)
-* [Preferred Hardware and Software](https://docs.google.com/document/d/1yxA9WjhDR6_P6daMvTxhDtTyXLQ55x_oEr4KY1KVaNg/edit#heading=h.64g8qpf0x9oa)
-* [New Employee Onboarding](https://docs.google.com/document/d/14a6gy_nqVkBHtUzPjT7oXkxRs0yk_qVuBrPUOZ8XaTs/edit#heading=h.damp1gnlblk)
-* [Remote Access](https://docs.google.com/document/d/1IAupm9t8R6atDkDKtxq0UQqOfeYH7aiXLMYPzhJYxIs/edit)
-* [Cybersecurity](https://docs.google.com/document/d/1M6rDqZwuQOJKppk3M0mYxjQxfnJsBVXGM57l53PoveE/edit#heading=h.damp1gnlblk)
-* [Back up & Data restoration](https://docs.google.com/document/d/1MQBCBRlm1EAXeerj6V0Ny-uquk49dETYDakQnC4MPZg/edit#heading=h.damp1gnlblk)
+* [Acceptable Use Agreement](https://drive.google.com/file/d/1Y2Rse-oLEKZOibJ8kwuqT74UAkQaMeEt/view?usp=sharing)
+* [Preferred Hardware and Software](https://drive.google.com/file/d/1tT9iRJdZzK-KVd-tHaf9guRFeTYaFyYM/view?usp=sharing)
+* [New Employee Onboarding](https://drive.google.com/file/d/1ghN7e-y21311yl_MTbtjBVI4pUEbtFas/view?usp=sharing)
+* [Remote Access](https://drive.google.com/file/d/1yftAtC9StH-elHMxVKVCGfXzc3LZdvXk/view?usp=sharing)
+* [Cybersecurity](https://drive.google.com/file/d/1aOQSkZkcJxs4STEGkIdom9fDN-fxlLze/view?usp=sharing)
+* [Back up & Data restoration](https://drive.google.com/file/d/1akKcVLSOwfWUCnpzMUHUvI50bATTzCFg/view?usp=sharing)
 * [Traffic monitoring](https://drive.google.com/file/d/19Linm2y2rp5ASKNVgm_U_kCvoCcyM1UJ/view?usp=sharing)
-* [Employee Termination](https://docs.google.com/document/d/1-zt9yq1BCxoH1KfhwR0agp4LD0R08nXC4ICLPG6SG-U/edit#heading=h.damp1gnlblk)
-* [Secure/Personal Information Disposal](file:///C:/Users/Omara/Downloads/New%20folder/Secure_Personal%20Information%20Disposal.pdf)
-* [Slideshow](https://docs.google.com/presentation/d/1UsDPhH5W3B3FnCR49cBGllSpmT4lKuiPpm0FM0tI_xY/edit?usp=sharing)
+* [Employee Termination](https://drive.google.com/file/d/16vi16o261qIvin8l-Ur1d6P42uhSJVIl/view?usp=sharing)
+* [Secure/Personal Information Disposal](https://drive.google.com/file/d/1tSsq12b02W7Ch03NIic279jXpTO70BtI/view?usp=sharing)
+* [Slideshow](https://drive.google.com/file/d/1erzsKEtGUtTHd14Nmu8yl9k5_gNFxX5y/view?usp=sharing)
   
 ## Topologies/Visuals
 * [Rough Topology](https://drive.google.com/file/d/11Q1hYyOH7JIarpZ33ANmQBcdLPw1D7pI/view?usp=sharing)
