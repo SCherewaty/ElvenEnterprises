@@ -21,7 +21,7 @@ Elven Enterprises (EvE) has the distinction and privilege of being partners with
 * [Remote Access](https://docs.google.com/document/d/1IAupm9t8R6atDkDKtxq0UQqOfeYH7aiXLMYPzhJYxIs/edit)
 * [Cybersecurity](https://docs.google.com/document/d/1M6rDqZwuQOJKppk3M0mYxjQxfnJsBVXGM57l53PoveE/edit#heading=h.damp1gnlblk)
 * [Back up & Data restoration](https://docs.google.com/document/d/1MQBCBRlm1EAXeerj6V0Ny-uquk49dETYDakQnC4MPZg/edit#heading=h.damp1gnlblk)
-* [Traffic monitoring](https://docs.google.com/document/d/17mIJEfb5fJRNk-P2TLGODxNAPH3lA1rw31lcKNhRqzU/edit#heading=h.8ikfwrjuh5vz)
+* [Traffic monitoring](https://drive.google.com/file/d/19Linm2y2rp5ASKNVgm_U_kCvoCcyM1UJ/view?usp=sharing)
 * [Employee Termination](https://docs.google.com/document/d/1-zt9yq1BCxoH1KfhwR0agp4LD0R08nXC4ICLPG6SG-U/edit#heading=h.damp1gnlblk)
 * [Secure/Personal Information Disposal](file:///C:/Users/Omara/Downloads/New%20folder/Secure_Personal%20Information%20Disposal.pdf)
 * [Slideshow](https://docs.google.com/presentation/d/1UsDPhH5W3B3FnCR49cBGllSpmT4lKuiPpm0FM0tI_xY/edit?usp=sharing)
