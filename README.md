@@ -9,11 +9,11 @@ Elven Enterprises (EvE) has the distinction and privilege of being partners with
 * Bradley Baack [Github](https://github.com/bjbaack) ! [LinkedIn](https://www.linkedin.com/in/bradleybaack/)
 * Becca Childs [Github](https://github.com/Crimson-Raven) ! [LinkedIn](https://www.linkedin.com/in/rebecca-childs-b69b61166/)
 
-## [Team Agreement](https://docs.google.com/document/d/1fNa5TKsHoVrjMS5TSnLkJ30S34Od6ILYmXGh-81YvO8/edit?usp=sharing)
+## [Team Agreement](https://drive.google.com/file/d/1ys-lAKTnF5z_kncZabKG66FCftPtUiZ3/view?usp=sharing)
 
-## [System Selection](https://docs.google.com/document/d/1gUgTYlfTJa4f-P9nA7oibvPZR7GzYQ5ioUSrZHc1XgA/edit)
+## [System Selection](https://drive.google.com/file/d/1joYRZkkRJaS6uIOtuWAT_fN91gcucj1h/view?usp=sharing)
 
-## [Employee Handbook](https://docs.google.com/document/d/1v-KCPP4P30EBBw6sGXk_Vki68MzrAU1pHBkryjyDo20/edit#heading=h.nfid4l84lg0u)
+## [Employee Handbook](https://drive.google.com/file/d/1Eq-YPqVwikaZfbIWyxIMuJvCMAZ0M2WZ/view?usp=sharing)
 ## SOP docs and the slideshow
 * [Acceptable Use Agreement](https://drive.google.com/file/d/1Y2Rse-oLEKZOibJ8kwuqT74UAkQaMeEt/view?usp=sharing)
 * [Preferred Hardware and Software](https://drive.google.com/file/d/1tT9iRJdZzK-KVd-tHaf9guRFeTYaFyYM/view?usp=sharing)
