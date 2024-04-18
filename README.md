@@ -28,6 +28,7 @@ Elven Enterprises (EvE) has the distinction and privilege of being partners with
   
 ## Topologies/Visuals
 * [Rough Topology](https://drive.google.com/file/d/11Q1hYyOH7JIarpZ33ANmQBcdLPw1D7pI/view?usp=sharing)
+* [File Share Topolgy](https://drive.google.com/file/d/1X5ck1ZZEZ3S28mHOj1ZN6c8yAJTJnx6U/view?usp=sharing)
 
 ## [Trello](https://trello.com/invite/b/evm42QDY/ATTI7f423eb5b0523d83af994af4e553670eC0F6374E/ops-301)
 
