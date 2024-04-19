@@ -24,7 +24,7 @@ Elven Enterprises (EvE) has the distinction and privilege of being partners with
 * [Network Monitoring](https://drive.google.com/file/d/1tm7T2yX9pmuDvKSLppy3SZCsTQQqlQeM/view?usp=sharing)
 * [Employee Termination](https://drive.google.com/file/d/16vi16o261qIvin8l-Ur1d6P42uhSJVIl/view?usp=sharing)
 * [Secure/Personal Information Disposal](https://drive.google.com/file/d/1tSsq12b02W7Ch03NIic279jXpTO70BtI/view?usp=sharing)
-* [Slideshow](https://drive.google.com/file/d/1erzsKEtGUtTHd14Nmu8yl9k5_gNFxX5y/view?usp=sharing)
+* [Slideshow](https://drive.google.com/file/d/1c_e7dIY8OckXAq8guzWmNVqIBEupOx1L/view?usp=sharing)
   
 ## Topologies/Visuals
 * [Rough Topology](https://drive.google.com/file/d/11Q1hYyOH7JIarpZ33ANmQBcdLPw1D7pI/view?usp=sharing)
