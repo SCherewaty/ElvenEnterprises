@@ -1,7 +1,8 @@
 # Elven Enterprises
 ![bd3665e3-f515-404f-9644-66d24beadecc_720](https://github.com/oardid/ElvenEnterprises/assets/158124623/2dd16597-e5b8-4c4d-9735-f2aa8da2a229)
 
-Elven Enterprises (EvE) has the distinction and privilege of being partners with Frodo Tech.  EvE leads the way in the implementation of efficient and state-of-the-art networking and information technology services.  As a partner of Frodo Tech, EvE has put together this handbook in order to provide guidelines and instructions for navigating the technology you will be using day-to-day.
+Our fictional company, Elven Enterprises, has been hired to build an upgraded network for FrodoTech an expanding startup (also fictitious).  We were brought on to create a network which prioritizes security, fail-safe backups, smooth communication between the home (AWS EC2 hosted) office and the new satellite office, and system for file sharing. 
+Our onboarding message; Employee Handbook:  "Elven Enterprises has the distinction and privilege of being partners with Frodo Tech.  Elven Enterprises leads the way in the implementation of efficient and state-of-the-art networking and information technology services.  As a partner of Frodo Tech, Elven Enterprises has put together this handbook in order to provide guidelines and instructions for navigating the technology you will be using day-to-day."
 ## Team Members
 * Steve Cherewaty [Github](https://github.com/SCherewaty) ! [LinkedIn](https://www.linkedin.com/in/steve-cherewaty-jr-b8727135/)
 * Omar Ardid [Github](https://github.com/oardid) ! [LinkedIn](https://www.linkedin.com/in/ardidomar/)
