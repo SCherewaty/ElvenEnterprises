@@ -21,7 +21,7 @@ Our onboarding message; Employee Handbook:  "Elven Enterprises has the distincti
 * [New Employee Onboarding](https://drive.google.com/file/d/1ghN7e-y21311yl_MTbtjBVI4pUEbtFas/view?usp=sharing)
 * [Cybersecurity](https://drive.google.com/file/d/1aOQSkZkcJxs4STEGkIdom9fDN-fxlLze/view?usp=sharing)
 * [Back up & Data restoration](https://drive.google.com/file/d/1akKcVLSOwfWUCnpzMUHUvI50bATTzCFg/view?usp=sharing)
-* [Network Monitoring](https://drive.google.com/file/d/1tm7T2yX9pmuDvKSLppy3SZCsTQQqlQeM/view?usp=sharing)
+* [Network Monitoring](https://drive.google.com/file/d/1EeIIexO_gGLsVvobtJpBSN_o8C68OqSV/view?usp=share_link)
 * [Employee Termination](https://drive.google.com/file/d/16vi16o261qIvin8l-Ur1d6P42uhSJVIl/view?usp=sharing)
 * [Secure/Personal Information Disposal](https://drive.google.com/file/d/1tSsq12b02W7Ch03NIic279jXpTO70BtI/view?usp=sharing)
 * [Slideshow](https://drive.google.com/file/d/1c_e7dIY8OckXAq8guzWmNVqIBEupOx1L/view?usp=sharing)
