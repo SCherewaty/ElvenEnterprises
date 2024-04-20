@@ -34,5 +34,5 @@ Our onboarding message; Employee Handbook:  "Elven Enterprises has the distincti
 ## [Trello](https://trello.com/invite/b/evm42QDY/ATTI7f423eb5b0523d83af994af4e553670eC0F6374E/ops-301)
 
 ## Scripts
-* [Creating new users in active directory](https://github.com/oardid/ElvenEnterprises/blob/main/ADUsers.ps1)
-* [Configure system policies](https://github.com/oardid/ElvenEnterprises/blob/main/SystemPolicies.ps1)
+* [Creating new users in active directory](ADUsers.ps1)
+* [Configure system policies](SystemPolicies.ps1)
