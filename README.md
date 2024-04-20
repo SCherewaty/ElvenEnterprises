@@ -19,7 +19,6 @@ Our onboarding message; Employee Handbook:  "Elven Enterprises has the distincti
 * [Acceptable Use Agreement](https://drive.google.com/file/d/1Y2Rse-oLEKZOibJ8kwuqT74UAkQaMeEt/view?usp=sharing)
 * [Preferred Hardware and Software](https://drive.google.com/file/d/1tT9iRJdZzK-KVd-tHaf9guRFeTYaFyYM/view?usp=sharing)
 * [New Employee Onboarding](https://drive.google.com/file/d/1ghN7e-y21311yl_MTbtjBVI4pUEbtFas/view?usp=sharing)
-* [Remote Access](https://drive.google.com/file/d/1yftAtC9StH-elHMxVKVCGfXzc3LZdvXk/view?usp=sharing)
 * [Cybersecurity](https://drive.google.com/file/d/1aOQSkZkcJxs4STEGkIdom9fDN-fxlLze/view?usp=sharing)
 * [Back up & Data restoration](https://drive.google.com/file/d/1akKcVLSOwfWUCnpzMUHUvI50bATTzCFg/view?usp=sharing)
 * [Network Monitoring](https://drive.google.com/file/d/1tm7T2yX9pmuDvKSLppy3SZCsTQQqlQeM/view?usp=sharing)
