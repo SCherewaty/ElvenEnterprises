@@ -14,7 +14,7 @@ Our onboarding message; Employee Handbook:  "Elven Enterprises has the distincti
 
 ## [System Selection](https://drive.google.com/file/d/1joYRZkkRJaS6uIOtuWAT_fN91gcucj1h/view?usp=sharing)
 
-## [Employee Handbook](https://drive.google.com/file/d/1Eq-YPqVwikaZfbIWyxIMuJvCMAZ0M2WZ/view?usp=sharing)
+## [Employee Handbook](https://drive.google.com/file/d/1CqanLgaoOUU3xTHLFjnGfGXO_j6AouVn/view?usp=sharing)
 ## SOP docs and the slideshow
 * [Acceptable Use Agreement](https://drive.google.com/file/d/1Y2Rse-oLEKZOibJ8kwuqT74UAkQaMeEt/view?usp=sharing)
 * [New Employee Onboarding](https://drive.google.com/file/d/1ghN7e-y21311yl_MTbtjBVI4pUEbtFas/view?usp=sharing)
