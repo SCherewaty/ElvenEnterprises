@@ -23,6 +23,7 @@ Our onboarding message; Employee Handbook:  "Elven Enterprises has the distincti
 * [Network Monitoring](https://drive.google.com/file/d/1EeIIexO_gGLsVvobtJpBSN_o8C68OqSV/view?usp=share_link)
 * [Employee Termination](https://drive.google.com/file/d/16vi16o261qIvin8l-Ur1d6P42uhSJVIl/view?usp=sharing)
 * [Secure/Personal Information Disposal](https://drive.google.com/file/d/1tSsq12b02W7Ch03NIic279jXpTO70BtI/view?usp=sharing)
+* [Network Change Management](https://drive.google.com/file/d/1Fpi5CePLUmjioj8iFkZavKUAoVZ2rfWd/view?usp=sharing) 
 * [Slideshow](https://drive.google.com/file/d/1c_e7dIY8OckXAq8guzWmNVqIBEupOx1L/view?usp=sharing)
   
 ## Topologies/Visuals
