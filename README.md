@@ -26,7 +26,7 @@ Our onboarding message; Employee Handbook:  "Elven Enterprises has the distincti
 * [Slideshow](https://drive.google.com/file/d/1c_e7dIY8OckXAq8guzWmNVqIBEupOx1L/view?usp=sharing)
   
 ## Topologies/Visuals
-* [Rough Topology](https://drive.google.com/file/d/11Q1hYyOH7JIarpZ33ANmQBcdLPw1D7pI/view?usp=sharing)
+* [Rough Topology](https://docs.google.com/document/d/1Bejqhr58Yfxi36beJksGs6yUL5q7Hpts4oLVBREZpek/edit?usp=sharing)
 * [File Share Topolgy](https://drive.google.com/file/d/1X5ck1ZZEZ3S28mHOj1ZN6c8yAJTJnx6U/view?usp=sharing)
 * [Written Topology Explanation](https://docs.google.com/document/d/19PQpryJ8NUBwLVDb2QvkPN6-Udf321juAT0eEpuLFvs/edit?usp=sharing)
 
